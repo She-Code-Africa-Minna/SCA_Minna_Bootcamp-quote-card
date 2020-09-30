@@ -22,10 +22,9 @@ Your users should be able to:
 
 ## Where to find everything
 
-- The preview of the designs can be found inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
-- The `/style-guide.md` contains all styling reference and contents you will need
-- You will find all the required assets in the `/images` folder. The assets are already optimized.
-- There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
+- The preview of the designs can be found inside the `/design` folder. You will find both a mobile and a desktop version of the design to work with. 
+- You will find all the required assets in the `/images` folder.
+- There is also a `style-guide.md` file, which contains the information you'll need, such as contents, color palette and fonts.
 
 ## Start your project
 
@@ -44,4 +43,4 @@ Your users should be able to:
 
 ## Sharing your solution
 
-- Share the link to your repo and deployed site on Twitter and tag **@SCA_Minna** and **@paritieltd**
+- Share the link to your repo and deployed site on Twitter tagging **@SCA_Minna** and **@paritieltd**
