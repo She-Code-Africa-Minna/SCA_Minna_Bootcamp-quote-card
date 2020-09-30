@@ -4,31 +4,32 @@
 
 The designs were created to the following widths:
 
-- Mobile: 375px
+- Mobile: 425px
 - Desktop: 1440px
 
 ## Colors
 
-- Very Dark Grayish Blue: hsl(217, 19%, 35%)
-- Desaturated Dark Blue: hsl(214, 17%, 51%)
-- Grayish Blue: hsl(212, 23%, 69%)
-- Light Grayish Blue: hsl(210, 46%, 95%)
+- Pink: #B70569
+- Black: #000000
 
 ## Typography
 
 ### Body Copy
 
-- Font size: 13px
+- Font size: 18px
+- Heading: 20px
 
 ### Headings
 
-- Family: [Manrope](https://fonts.google.com/specimen/Manrope)
-- Weights: 500, 700
+- Family: Times New Roman
 
-## Icons
+## Images
 
-We provide SVGs for the social icons. But please feel free to use a font icon library if you like. Some suggestions can be found below:
+Images used are given
 
-- [Font Awesome](https://fontawesome.com)
-- [IcoMoon](https://icomoon.io)
-- [Ionicons](https://ionicons.com)
+## Content
+
+BE THE HERIONE OF YOUR LIFE
+
+Make the most of yourself by fanning the tiny, inner sparks of possibility into flames of achievement.
+- Golda Meir
