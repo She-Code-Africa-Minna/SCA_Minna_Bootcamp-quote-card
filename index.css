@@ -5,6 +5,7 @@ body{
 #body{
     display: flex;
     flex-wrap: wrap;
+    margin-top: 200px;
 }
 h1{
     font-size: 20px;
@@ -18,21 +19,27 @@ h1{
 }
 #Golda{
     color: #b70569;
+    font-size: 12px;
+    margin-top: 0; 
 }
 .attribution{
     text-align: center;
+    margin-top: 20px;
 }
 .container{
     background-color: white;
     width: 40%;
     margin-right: auto;
+    padding: 20px;
 }
 #puff{
     width: 25%;
     margin-left: auto;
 }
 #fav{
-    width: 10%;
+    width: 12%;
+     margin-left: 5px; 
+    margin-top: 10px;
 }
 
 @media screen and (max-width:425px) {
