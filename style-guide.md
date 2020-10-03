@@ -10,6 +10,7 @@ The designs were created to the following widths:
 ## Colors
 
 - Pink: #B70569
+- light pink:  #f3c0dd
 - Black: #000000
 
 ## Typography
