@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'roboto';
+    background: linear-gradient(pink,white);
+
+}
+
+h2{
+    color: deeppink;
+    font-size: 24px;
+    text-align: center;
+}
+h4{
+    color: black;
+    font-size: 18px; 
+    margin: 20px;
+    text-align: center;
+}
+blockquote{
+    color: deeppink;
+    text-align: left;
+}
+
+
+    .img{
+      border-radius: 10px;
+      width: 300px;
+    }
+    .avatar{
+      border-radius: 10px;
+      width: 50px;
+      left: 70px;
+      position: relative;
+    }
+    .row{
+display: flex;
+flex-wrap: wrap;
+    }
+.column{
+    flex: 1;
+}
+    
+ 
+.card{
+    
+    width: 300px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.144);
+     padding: 10px;
+    border-radius: 10px;
+    min-height: 300px;
+    margin: 100px;
+}
+
+
+.attribution{
+    text-align: center;
+    position: relative;
+    top: -90px;
+    color: deeppink;
+}
+
+
+
+  
+@media(min-width:1200px){
+       
+ 
+.card{
+    width: 900px;
+     margin: 150px;
+}
+
+.img{
+    
+    width: 500px;
+  }
+  .content{
+      width: 400px;
+      margin: 0px;
+      text-align: left;
+  }
+blockquote{
+    text-align: left;
+}
+.avatar{
+    
+    left: 70px;
+    position: relative;
+  }
+
+}
