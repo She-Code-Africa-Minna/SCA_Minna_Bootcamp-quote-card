@@ -1,0 +1,119 @@
+@media screen and (min-width:500px){
+
+    body{
+        background-color: black;
+        font-size: 18px;
+    }
+    #body{
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 200px;
+    }
+    #pink{
+        background-color: #f3c0dd;
+        padding-bottom: 50px;
+        padding-top: 5px;
+        width: 90%;
+        margin: auto;
+        margin-top: 50px;
+    }
+    h1{
+        font-size: 20px;
+        text-transform: uppercase;
+        color: #b70569;
+    }
+    p{
+        color: #000000;
+    }
+    #Golda{
+        color: #b70569;
+        font-size: 12px;
+    }
+    .attribution{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .container{
+        background-color: white;
+        width: 40%;
+        margin-right: auto;
+        padding: 20px;
+        height: 30%;
+        border-top-right-radius: 14%;
+        border-bottom-right-radius: 14%;
+    }
+    #puff{
+        width: 25%;
+        margin-left: auto;
+       height: inherit;
+       border-bottom-left-radius: 20%;
+       border-top-left-radius: 20%;
+    }
+    #fav{
+        width: 12%;
+        margin-left: 5px; 
+        margin-top: 0
+    }
+}
+
+@media screen and (max-width:500px) {
+    body{
+        background-color: #f3c0dd;
+        font-size: 15px;
+    }   
+    #pink{
+        background-color: #f3c0dd;
+        padding-bottom: 70px;
+        padding-top: 5px;
+        width: 90%;
+        margin: auto;
+        margin-top: 50px;
+    }
+    .container{
+        background-color: white;
+        width: 69%;
+        margin-top: 0;
+        margin-bottom: 10px;
+        margin-left: 15%;
+        padding : 2px;
+        height: 30%;
+        border-bottom-left-radius: 14%;
+        border-bottom-right-radius: 14%;
+    }
+    #body{
+        display: flex;
+        flex-direction: column;
+    }
+    p{
+        color: #000000;
+    }
+    h1{
+        color: #b70569;
+        font-size: 16px;
+        text-transform: uppercase;
+    }
+    #Golda{
+        color: #b70569;
+        font-size: 12px;
+        text-align: left;
+    }
+    
+    .attribution{
+        text-align: center;
+    }
+    #puff{
+        width: 70%;
+        margin-bottom: 0;
+        margin-top: 10%;
+        margin-left: 15%;
+        border-top-right-radius: 20%;
+        border-top-left-radius: 20%;
+    
+    }
+    #fav{
+        width: 12%;
+        margin-left: 5px; 
+        margin-bottom: 5px;
+        
+    }
+}
